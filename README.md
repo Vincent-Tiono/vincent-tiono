@@ -1,6 +1,5 @@
 # Hi, I'm Vincent!
 
-# 💫 About Me:
 🏛️ Junior Studying Electrical Engineering at National Taiwan University<br/>
 👨🏻‍💻 Interested in AI-human collaboration and IC Design Verification<br/>
 💭 Currently learning about Machine Learning, [PyTorch](https://www.learnpytorch.io/)!<br/>
