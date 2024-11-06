@@ -1,7 +1,7 @@
 # 👋 Hello, I'm Vincent Tiono!
 
 🏛️ **Junior in Electrical Engineering** at **National Taiwan University** <br/>
-👨🏻‍💻 **Interests**: AI-human collaboration, Design Verification, and sustainable tech <br/> 
+👨🏻‍💻 **Interests**: AI-human collaboration, Design Verification, and sustainable techs <br/> 
 💭 **Currently learning**: Machine Learning and [PyTorch](https://www.learnpytorch.io/) <br/>
 🔬 **Recent Projects**: [Solving Graeco Latin Squares using MiniSAT](#) <br/>
 🎸 **Post Malone**, 🏀 **Houston Rockets**
