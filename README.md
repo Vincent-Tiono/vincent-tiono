@@ -1,9 +1,17 @@
-# Hi, I'm Vincent!
+# 👋 Hello, I'm [Your Name]!
 
-🏛️ Junior Studying Electrical Engineering at National Taiwan University<br/>
-👨🏻‍💻 Interested in AI-human collaboration and IC Design Verification<br/>
-💭 Currently learning about Machine Learning, [PyTorch](https://www.learnpytorch.io/)!<br/>
-🎸 Post Malone, 🏀 Houston Rockets<br/>
+🏛️ **Junior in Electrical Engineering** at **National Taiwan University** <br/>
+👨🏻‍💻 **Interests**: AI-human collaboration, IC Design Verification, and sustainable tech <br/>  
+💭 **Currently learning**: Machine Learning and [PyTorch](https://www.learnpytorch.io/) <br/>
+🔬 **Recent Projects**: <br/>
+   - [Graeco-Latin Square Visualization](#): Using MiniSat and Python <br/>
+🎸 **Post Malone**, 🏀 **Sports Fan**: Houston Rockets
+
+---
+
+> 🧑‍💻 I'm passionate about integrating tech and humans, working towards creating sustainable and innovative solutions inspired by Indonesian heritage.  
+
+Feel free to connect!
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Vincent-Tiono&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
