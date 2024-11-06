@@ -16,10 +16,10 @@
 🔬 **Recent Projects**: [Solving Graeco Latin Squares using MiniSAT](#)
 
 🎸 **Post Malone**, 🏀 **Houston Rockets**
-
 ---
 
 🌟 I'm passionate about integrating tech and humans!
+
   </td>
 </tr>
 </table>
