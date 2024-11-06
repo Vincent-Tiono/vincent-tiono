@@ -1,10 +1,10 @@
 # 👋 Hello, I'm [Your Name]!
 
-🏛️ **Junior in Electrical Engineering** at **National Taiwan University** <br/>
-👨🏻‍💻 **Interests**: AI-human collaboration, IC Design Verification, and sustainable tech <br/>  
-💭 **Currently learning**: Machine Learning and [PyTorch](https://www.learnpytorch.io/) <br/>
+🏛️ **Junior in Electrical Engineering** at **National Taiwan University**
+👨🏻‍💻 **Interests**: AI-human collaboration, Design Verification, and sustainable tech 
+💭 **Currently learning**: Machine Learning and [PyTorch](https://www.learnpytorch.io/)
 🔬 **Recent Projects**:
-   - [Graeco-Latin Square Visualization](#): Using MiniSat and Python <br/>
+   - [Graeco-Latin Square Visualization](#): Using MiniSat and Python
 🎸 **Post Malone**, 🏀 **Sports Fan**: Houston Rockets
 
 ---
