@@ -3,7 +3,7 @@
 🏛️ **Junior in Electrical Engineering** at **National Taiwan University** <br/>
 👨🏻‍💻 **Interests**: AI-human collaboration, IC Design Verification, and sustainable tech <br/>  
 💭 **Currently learning**: Machine Learning and [PyTorch](https://www.learnpytorch.io/) <br/>
-🔬 **Recent Projects**: <br/>
+🔬 **Recent Projects**:
    - [Graeco-Latin Square Visualization](#): Using MiniSat and Python <br/>
 🎸 **Post Malone**, 🏀 **Sports Fan**: Houston Rockets
 
