@@ -13,7 +13,7 @@
 
 💭 **Currently learning**: Machine Learning and [PyTorch](https://www.learnpytorch.io/)
 
-🔬 **Recent Projects**: [Solving Graeco Latin Squares using MiniSAT](https://github.com/Vincent-Tiono/graeco-latin.git)
+🔬 **Recent Project**: [Solving Graeco Latin Squares using MiniSAT](https://github.com/Vincent-Tiono/graeco-latin.git)
 
 🎸 **Post Malone**, 🏀 **Houston Rockets**
 
