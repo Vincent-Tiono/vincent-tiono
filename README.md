@@ -9,7 +9,7 @@
 
 🏛️ **Junior in Electrical Engineering** at **National Taiwan University**
 
-👨🏻‍💻 **Interests**: Human-AI Collaboration, Design Verification
+👨🏻‍💻 **Interests**: Human-AI Collaboration
 
 💭 **Currently learning**: Machine Learning and [PyTorch](https://www.learnpytorch.io/)
 
