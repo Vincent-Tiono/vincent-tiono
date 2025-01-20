@@ -13,7 +13,7 @@
 
 💭 **Currently learning**: Machine Learning and [PyTorch](https://www.learnpytorch.io/)
 
-🔬 **Recent Project**: [BlackJack Glasses]([https://github.com/Vincent-Tiono/blackjack-glasses.git])
+🔬 **Recent Project**: [BlackJack Glasses](https://github.com/Vincent-Tiono/blackjack-glasses.git)
 
 🎸 **Post Malone**, 🏀 **Houston Rockets**
 
