@@ -9,11 +9,9 @@
 
 🏛️ **Junior in Electrical Engineering** at **National Taiwan University**
 
-👨🏻‍💻 **Interests**: Human-AI Collaboration
+👨🏻‍💻 **Interests**: Anything related to machine learning and finance!
 
-💭 **Currently learning**: Machine Learning and [PyTorch](https://www.learnpytorch.io/)
-
-🔬 **Recent Project**: [BlackJack Glasses](https://github.com/Vincent-Tiono/blackjack-glasses.git)
+🔬 **Recent Project**: [Trask Talker (GenAI Hackathon 2025)](https://github.com/Vincent-Tiono/Trash-Talker.git)
 
 🎸 **Post Malone**, 🏀 **Houston Rockets**
 
