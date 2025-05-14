@@ -13,8 +13,6 @@
 🔬 **Recent Project**: [Trask Talker (GenAI Hackathon 2025)](https://github.com/Vincent-Tiono/Trash-Talker.git)
 
 🎸 **Post Malone**, 🏀 **Houston Rockets**
-
-
   </td>
 </tr>
 </table>
