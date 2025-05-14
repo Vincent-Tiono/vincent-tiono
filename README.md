@@ -19,9 +19,3 @@
   </td>
 </tr>
 </table>
-
-# My GitHub Stats
-
-![Vincent's Stats](https://github-readme-stats.vercel.app/api?username=Vincent-Tiono&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
-![Vincent's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Vincent-Tiono&theme=dark&hide_border=false)
-![Vincent's Most Used Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=Vincent-Tiono&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
