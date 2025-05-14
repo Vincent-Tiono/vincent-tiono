@@ -1,4 +1,3 @@
-# 👋 Hello, I'm Vincent Tiono!
 <table style="border:none">
 <!-- <tr>
   <td style="vertical-align: center">
