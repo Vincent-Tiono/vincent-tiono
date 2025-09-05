@@ -6,7 +6,7 @@
   <td> -->
 
 
-🏛️ **Junior in Electrical Engineering** at **National Taiwan University**
+🏛️ **Senior in Electrical Engineering** at **National Taiwan University**
 
 👨🏻‍💻 **Interests**: Anything related to machine learning and finance!
 
